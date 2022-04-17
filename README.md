@@ -15,7 +15,7 @@ Note : Tool is Made of Educational Purposes only.
 apt update && apt upgrade -y
 ```
 ```bash
-pkg install python
+pkg install python git -y
 ```
 ```bash
 pip install colorama
