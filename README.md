@@ -21,7 +21,7 @@ pkg install python git -y
 pip install colorama
 ```
 ```bash
-git clone https://github.com/Hackers-Colony/WaCrasher
+git clone https://github.com/Hackerscolonyofficial/WaCrasher
 ```
 ```bash
 cd WaCrasher
