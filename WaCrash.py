@@ -19,7 +19,7 @@
 #SOFTWARE.
 ###################################
 #Author  : Azhar (Team - HCO)     #
-#Project : HCO PHISHER            #
+#Project : WaCrasher              #
 #Type    : Whatsapp - Crasher     #
 #lang    : python v3.* (py3)      #
 #Owner   : Azhar YT, Miss Praveen #
