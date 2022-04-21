@@ -17,6 +17,13 @@
 #LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
+###################################
+#Author  : Azhar (Team - HCO)     #
+#Project : HCO PHISHER            #
+#Type    : Whatsapp - Crasher     #
+#lang    : python v3.* (py3)      #
+#Owner   : Azhar YT, Miss Praveen #
+###################################
 import os
 import colorama
 import time
